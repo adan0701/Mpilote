@@ -1,3 +1,7 @@
+Projet réalisé lors de mon stage de 3eme au Mucem a Marseille en Décembre 2022
+
+
+
 Étapes pour intaller MPilote en local :
 
 1. Installer le logiciel MAMP puis le démarrer.
